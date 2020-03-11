@@ -5,8 +5,10 @@ chinese characters recognition
 
 ## (Please update pytorch to 1.1.0 https://pytorch.org/ )
 ## Update
+ ```
 * remove lmdb dataloader
 * fix ctc loss
+```
 ## Test
 * [download model](https://pan.baidu.com/s/13Jk1q94BUZYvSYgPJkDr9Q) password:t99a  
 There are images in test_images file, and you just run it as follow.
